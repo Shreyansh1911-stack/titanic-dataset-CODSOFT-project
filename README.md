@@ -9,10 +9,10 @@ To run this project on your own machine, follow these steps.
 Prerequisites
 
 You will need Python and the following libraries installed. You can install them using pip:
-```bash
 pip install pandas numpy scikit-learn
 
-My Process
+
+>My Process:
 Data Exploration and Cleaning: Loaded the dataset and handled missing values, particularly for the 'Age' column, by filling them with the median.
 
 Feature Engineering: Converted categorical features like 'Sex' and 'Embarked' into a numerical format that the model can understand.
