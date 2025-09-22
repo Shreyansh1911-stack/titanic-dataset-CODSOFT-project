@@ -11,3 +11,12 @@ Prerequisites
 You will need Python and the following libraries installed. You can install them using pip:
 ```bash
 pip install pandas numpy scikit-learn
+
+My Process
+Data Exploration and Cleaning: Loaded the dataset and handled missing values, particularly for the 'Age' column, by filling them with the median.
+
+Feature Engineering: Converted categorical features like 'Sex' and 'Embarked' into a numerical format that the model can understand.
+
+Model Training: Trained a Logistic Regression model because it is a simple yet effective algorithm for binary classification tasks.
+
+Evaluation: The model was tested against an unseen portion of the dataset to evaluate its performance.
