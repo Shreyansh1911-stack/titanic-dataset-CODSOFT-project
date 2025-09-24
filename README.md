@@ -21,3 +21,8 @@ Feature Engineering: Converted categorical features like 'Sex' and 'Embarked' in
 Model Training: Trained a Logistic Regression model because it is a simple yet effective algorithm for binary classification tasks.
 
 Evaluation: The model was tested against an unseen portion of the dataset to evaluate its performance.
+
+
+ Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/shreyansh-shukla-s1380007)
+
